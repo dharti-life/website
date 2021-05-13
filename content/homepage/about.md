@@ -3,7 +3,7 @@ title: About
 draft: false
 role:
 avatar: img/logo.png
-bio: An organization founded and run by engineers, we are on a missiont to make technology accessible and usable at the ground-root level.
+bio: An organization founded and run by engineers, we are on a mission to help shape technology in a manner that it is accessible and usable at the ground-root level.
 organization:
   name:
   url:
